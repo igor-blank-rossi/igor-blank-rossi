@@ -1,16 +1,17 @@
-## Hi there 👋
+## bem vindo ao meu perfil🌴
 
-<!--
-**igor-blank-rossi/igor-blank-rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é igor
 
-Here are some ideas to get you started:
+- estou estudando no [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript
+- utilizo ese espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- estou no 1 ano do ensino medio
+- pretendo colocar aqui meus projetos no javacript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📱
+
+i.rossi@escola.pr.gov.br
+
+@igor_Brossi
+
+![](https://media1.tenor.com/m/9R5sYZ0LUE0AAAAC/minions-gus-minion.gif)
